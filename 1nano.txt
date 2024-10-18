@@ -1,0 +1,1 @@
+Editing from: nano 1nano.txt + Ctrol+X + Y for save
